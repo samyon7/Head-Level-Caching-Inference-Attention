@@ -9,4 +9,4 @@ Result? It fast, eventhough just 93% from the original model, but it significant
 
 
 
-Special credit -> Hang Tou, Wanto, Jo. Dani, Yun Han Que
+Special credit -> Hang Tou, Wanto, Jo. Dani, Yun Han Que, Garpo Singh
